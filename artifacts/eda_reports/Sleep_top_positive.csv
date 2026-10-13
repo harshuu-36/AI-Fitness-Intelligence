@@ -1,0 +1,11 @@
+,,0
+sleepquality,userid,-0.0039324612593771135
+userid,sleepquality,-0.0039324612593771135
+userid,durationminutes,-0.003386890572514825
+durationminutes,userid,-0.003386890572514825
+durationminutes,sleepid,-0.003358978308989953
+sleepid,durationminutes,-0.003358978308989953
+sleepquality,durationminutes,0.312185597358594
+durationminutes,sleepquality,0.312185597358594
+sleepid,userid,0.9999834618727166
+userid,sleepid,0.9999834618727166

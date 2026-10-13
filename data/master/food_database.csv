@@ -1,0 +1,477 @@
+food_id,food_name,category,meal_type,vegetarian,calories,protein,carbs,fats,fiber,serving_size,goal,cuisine,description
+FD001,Oats Porridge,Grains,Breakfast,Yes,250,10,42,5,6,1 Bowl,Weight Loss,Continental,High fiber oats cooked with milk.
+FD002,Masala Oats,Grains,Breakfast,Yes,270,9,45,6,7,1 Bowl,Weight Loss,Indian,Healthy masala oats with vegetables.
+FD003,Vegetable Upma,Grains,Breakfast,Yes,280,8,46,7,5,1 Plate,Maintenance,South Indian,Semolina cooked with vegetables.
+FD004,Poha,Grains,Breakfast,Yes,260,6,48,5,4,1 Plate,Maintenance,Indian,Flattened rice with peanuts.
+FD005,Idli Sambar,Dairy,Breakfast,Yes,310,11,50,6,5,2 Idlis,Weight Loss,South Indian,Steamed rice cakes with sambar.
+FD006,Dosa Sambar,Grains,Breakfast,Yes,350,10,52,10,5,1 Dosa,Maintenance,South Indian,Crispy dosa served with sambar.
+FD007,Rava Dosa,Grains,Breakfast,Yes,360,9,50,12,4,1 Dosa,Maintenance,South Indian,Rava based crispy dosa.
+FD008,Paneer Sandwich,Dairy,Breakfast,Yes,390,22,35,15,5,2 Slices,Muscle Gain,Indian,Whole wheat sandwich with paneer.
+FD009,Peanut Butter Toast,Nuts,Breakfast,Yes,330,12,32,16,5,2 Slices,Weight Gain,American,Whole wheat toast with peanut butter.
+FD010,Banana Peanut Smoothie,Fruits,Breakfast,Yes,420,18,55,14,6,1 Glass,Weight Gain,Continental,Banana smoothie with milk and peanut butter.
+FD011,Fruit Yogurt Bowl,Dairy,Breakfast,Yes,300,14,42,8,5,1 Bowl,Maintenance,Continental,Curd topped with fruits.
+FD012,Greek Yogurt Bowl,Dairy,Breakfast,Yes,290,20,28,8,4,1 Bowl,Muscle Gain,Continental,Greek yogurt with berries.
+FD013,Boiled Eggs,Eggs,Breakfast,No,210,18,2,14,0,3 Eggs,Muscle Gain,International,Protein rich boiled eggs.
+FD014,Egg Omelette,Eggs,Breakfast,No,280,21,3,20,0,3 Eggs,Muscle Gain,International,Classic vegetable omelette.
+FD015,Egg Bhurji,Eggs,Breakfast,No,290,22,6,18,2,1 Plate,Muscle Gain,Indian,Indian style scrambled eggs.
+FD016,Paneer Bhurji,Dairy,Breakfast,Yes,330,24,10,22,2,1 Bowl,Muscle Gain,Indian,High protein paneer scramble.
+FD017,Sprouts Salad,Pulses,Breakfast,Yes,220,16,28,4,8,1 Bowl,Weight Loss,Indian,Mixed sprouts with vegetables.
+FD018,Moong Chilla,Pulses,Breakfast,Yes,260,18,25,8,5,2 Chillas,Muscle Gain,Indian,Protein rich moong pancakes.
+FD019,Besan Chilla,Pulses,Breakfast,Yes,270,15,30,8,5,2 Chillas,Maintenance,Indian,Besan pancakes with vegetables.
+FD020,Vegetable Sandwich,Grains,Breakfast,Yes,290,9,40,8,5,2 Slices,Weight Loss,Indian,Whole wheat vegetable sandwich.
+FD021,Corn Sandwich,Grains,Breakfast,Yes,310,10,45,8,5,2 Slices,Maintenance,Indian,Sweet corn sandwich.
+FD022,Peanut Chaat,Nuts,Breakfast,Yes,280,12,20,16,6,1 Bowl,Weight Gain,Indian,Boiled peanuts with vegetables.
+FD023,Dry Fruits Mix,Nuts,Breakfast,Yes,340,10,22,24,5,50 g,Weight Gain,International,Almonds raisins and cashews.
+FD024,Milk with Banana,Dairy,Breakfast,Yes,290,12,40,8,4,1 Glass,Weight Gain,Indian,Milk blended with banana.
+FD025,Milk with Oats,Dairy,Breakfast,Yes,320,15,42,9,5,1 Glass,Muscle Gain,Continental,Milk mixed with oats.
+FD026,Soya Chunks,Pulses,Breakfast,Yes,280,28,18,4,8,100 g,Muscle Gain,Indian,Boiled high protein soya chunks.
+FD027,Tofu Scramble,Protein Foods,Breakfast,Yes,250,20,10,14,3,1 Plate,Muscle Gain,Continental,Tofu cooked with vegetables.
+FD028,Avocado Toast,Fruits,Breakfast,Yes,320,10,30,18,8,2 Slices,Maintenance,American,Whole wheat toast with avocado.
+FD029,Apple Oatmeal,Grains,Breakfast,Yes,290,10,48,6,7,1 Bowl,Weight Loss,Continental,Oats cooked with apple.
+FD030,Muesli Bowl,Grains,Breakfast,Yes,310,12,45,8,6,1 Bowl,Maintenance,Continental,Muesli with milk.
+FD031,Granola Bowl,Grains,Breakfast,Yes,360,11,48,12,6,1 Bowl,Weight Gain,American,Granola served with milk.
+FD032,Ragi Porridge,Grains,Breakfast,Yes,250,8,42,5,6,1 Bowl,Weight Loss,Indian,Nutritious ragi porridge.
+FD033,Vegetable Vermicelli,Grains,Breakfast,Yes,280,7,48,6,5,1 Plate,Maintenance,Indian,Vermicelli cooked with vegetables.
+FD034,Stuffed Paratha,Grains,Breakfast,Yes,380,11,52,14,6,2 Pieces,Weight Gain,North Indian,Whole wheat stuffed paratha.
+FD035,Aloo Paratha,Grains,Breakfast,Yes,400,10,58,15,5,2 Pieces,Weight Gain,North Indian,Potato stuffed paratha.
+FD036,Gobi Paratha,Grains,Breakfast,Yes,360,11,48,13,6,2 Pieces,Maintenance,North Indian,Cauliflower stuffed paratha.
+FD037,Methi Paratha,Grains,Breakfast,Yes,340,10,46,11,6,2 Pieces,Maintenance,North Indian,Healthy fenugreek paratha.
+FD038,Curd with Fruits,Dairy,Breakfast,Yes,220,10,30,6,4,1 Bowl,Weight Loss,Indian,Fresh curd with fruits.
+FD039,Protein Shake,Protein Foods,Breakfast,Yes,250,30,8,5,2,1 Scoop,Muscle Gain,International,Whey protein shake.
+FD040,Chocolate Protein Shake,Protein Foods,Breakfast,Yes,280,30,12,6,2,1 Scoop,Muscle Gain,International,Chocolate flavored whey shake.
+FD041,Strawberry Smoothie,Fruits,Breakfast,Yes,240,10,36,5,4,1 Glass,Maintenance,Continental,Fresh strawberry smoothie.
+FD042,Mango Smoothie,Fruits,Breakfast,Yes,290,10,45,6,4,1 Glass,Weight Gain,Indian,Mango smoothie with milk.
+FD043,Papaya Bowl,Fruits,Breakfast,Yes,160,3,35,1,5,1 Bowl,Weight Loss,Indian,Fresh papaya slices.
+FD044,Watermelon Bowl,Fruits,Breakfast,Yes,120,2,28,0,2,1 Bowl,Weight Loss,Indian,Fresh watermelon cubes.
+FD045,Pineapple Bowl,Fruits,Breakfast,Yes,150,2,34,1,3,1 Bowl,Weight Loss,Tropical,Fresh pineapple pieces.
+FD046,Orange Bowl,Fruits,Breakfast,Yes,140,2,32,1,4,1 Bowl,Weight Loss,Indian,Fresh orange slices.
+FD047,Mixed Fruit Bowl,Fruits,Breakfast,Yes,210,4,42,2,6,1 Bowl,Maintenance,International,Mixed seasonal fruits.
+FD048,Chia Pudding,Seeds,Breakfast,Yes,260,10,26,12,10,1 Bowl,Weight Loss,Continental,Chia seeds soaked overnight.
+FD049,Flaxseed Oatmeal,Seeds,Breakfast,Yes,290,11,38,10,8,1 Bowl,Weight Loss,Continental,Oats mixed with flaxseed.
+FD050,Protein Pancakes,Protein Foods,Breakfast,Yes,350,28,35,10,5,3 Pancakes,Muscle Gain,American,Protein rich breakfast pancakes.
+
+FD051,Vegetable Omelette,Eggs,Breakfast,No,270,20,5,18,2,3 Eggs,Muscle Gain,International,Egg omelette loaded with vegetables.
+FD052,Chicken Sandwich,Chicken,Breakfast,No,360,30,28,10,4,2 Slices,Muscle Gain,Continental,Grilled chicken sandwich.
+FD053,Chicken Sausage Wrap,Chicken,Breakfast,No,390,28,32,14,3,1 Wrap,Muscle Gain,American,Whole wheat wrap with chicken sausage.
+FD054,Paneer Wrap,Dairy,Breakfast,Yes,380,22,35,14,5,1 Wrap,Muscle Gain,Indian,Whole wheat paneer wrap.
+FD055,Tofu Wrap,Protein Foods,Breakfast,Yes,340,20,32,12,5,1 Wrap,Weight Loss,Continental,High protein tofu wrap.
+FD056,Quinoa Bowl,Grains,Breakfast,Yes,310,12,46,7,6,1 Bowl,Maintenance,Continental,Quinoa with vegetables.
+FD057,Brown Bread Toast,Grains,Breakfast,Yes,180,8,30,3,4,2 Slices,Weight Loss,Continental,Simple whole wheat toast.
+FD058,Peanut Butter Banana Toast,Nuts,Breakfast,Yes,360,14,42,15,5,2 Slices,Weight Gain,American,Toast with peanut butter and banana.
+FD059,Cottage Cheese Bowl,Dairy,Breakfast,Yes,290,24,10,16,2,150 g,Muscle Gain,Continental,Protein rich cottage cheese.
+FD060,Mixed Nuts Bowl,Nuts,Breakfast,Yes,350,12,18,28,6,50 g,Weight Gain,International,Almonds walnuts cashews and pistachios.
+
+FD061,Steamed Rice,Grains,Lunch,Yes,210,4,46,0,1,150 g,Maintenance,Indian,Plain steamed rice.
+FD062,Brown Rice,Grains,Lunch,Yes,220,5,45,2,3,150 g,Weight Loss,Indian,Whole grain brown rice.
+FD063,Jeera Rice,Grains,Lunch,Yes,240,5,46,4,2,150 g,Indian,Maintenance,Rice cooked with cumin.
+FD064,Vegetable Pulao,Grains,Lunch,Yes,310,8,52,8,4,1 Plate,Maintenance,Indian,Mixed vegetable pulao.
+FD065,Veg Biryani,Grains,Lunch,Yes,390,10,58,12,5,1 Plate,Weight Gain,Indian,Vegetable biryani.
+FD066,Dal Tadka,Pulses,Lunch,Yes,240,14,28,7,6,1 Bowl,Maintenance,Indian,Yellow lentils cooked with spices.
+FD067,Dal Fry,Pulses,Lunch,Yes,250,13,30,8,6,1 Bowl,Maintenance,Indian,Traditional dal fry.
+FD068,Rajma Curry,Pulses,Lunch,Yes,280,15,36,7,9,1 Bowl,Weight Loss,North Indian,Protein rich kidney beans.
+FD069,Chole Masala,Pulses,Lunch,Yes,310,16,38,8,10,1 Bowl,Maintenance,North Indian,Chickpea curry.
+FD070,Mixed Dal,Pulses,Lunch,Yes,260,15,30,6,7,1 Bowl,Muscle Gain,Indian,Mixed lentil preparation.
+FD071,Paneer Curry,Dairy,Lunch,Yes,360,24,12,24,3,1 Bowl,Muscle Gain,North Indian,Paneer cooked in tomato gravy.
+FD072,Palak Paneer,Dairy,Lunch,Yes,340,23,10,22,4,1 Bowl,Muscle Gain,North Indian,Paneer with spinach.
+FD073,Matar Paneer,Dairy,Lunch,Yes,350,20,18,20,5,1 Bowl,Maintenance,North Indian,Paneer and peas curry.
+FD074,Kadai Paneer,Dairy,Lunch,Yes,380,22,14,25,4,1 Bowl,Weight Gain,North Indian,Spicy paneer preparation.
+FD075,Shahi Paneer,Dairy,Lunch,Yes,430,20,18,30,3,1 Bowl,Weight Gain,North Indian,Creamy paneer curry.
+FD076,Grilled Chicken Breast,Chicken,Lunch,No,320,42,2,12,0,200 g,Muscle Gain,Continental,Lean grilled chicken breast.
+FD077,Chicken Curry,Chicken,Lunch,No,360,34,8,18,2,1 Bowl,Muscle Gain,Indian,Traditional chicken curry.
+FD078,Chicken Biryani,Chicken,Lunch,No,520,30,55,18,3,1 Plate,Weight Gain,Indian,Chicken cooked with aromatic rice.
+FD079,Tandoori Chicken,Chicken,Lunch,No,310,40,4,10,1,200 g,Muscle Gain,Indian,Tandoori grilled chicken.
+FD080,Butter Chicken,Chicken,Lunch,No,470,30,12,30,2,1 Bowl,Weight Gain,North Indian,Creamy butter chicken.
+FD081,Fish Curry,Fish,Lunch,No,330,32,8,16,1,1 Bowl,Maintenance,Indian,Traditional fish curry.
+FD082,Grilled Fish,Fish,Lunch,No,280,35,2,10,0,180 g,Muscle Gain,Continental,Grilled white fish fillet.
+FD083,Tuna Salad,Fish,Lunch,No,290,34,8,10,3,1 Bowl,Weight Loss,Continental,Fresh tuna salad.
+FD084,Egg Curry,Eggs,Lunch,No,320,22,10,20,2,2 Eggs,Muscle Gain,Indian,Eggs cooked in spicy gravy.
+FD085,Soya Curry,Pulses,Lunch,Yes,290,28,18,7,8,1 Bowl,Muscle Gain,Indian,Soya chunks curry.
+FD086,Tofu Curry,Protein Foods,Lunch,Yes,280,22,14,12,4,1 Bowl,Weight Loss,Continental,Tofu cooked in light gravy.
+FD087,Vegetable Curry,Vegetables,Lunch,Yes,180,6,22,6,6,1 Bowl,Weight Loss,Indian,Mixed seasonal vegetables.
+FD088,Bhindi Masala,Vegetables,Lunch,Yes,170,5,18,7,6,1 Bowl,Weight Loss,Indian,Okra cooked with spices.
+FD089,Aloo Gobi,Vegetables,Lunch,Yes,220,5,28,8,5,1 Bowl,Maintenance,Indian,Potato and cauliflower curry.
+FD090,Mixed Vegetable Sabzi,Vegetables,Lunch,Yes,190,6,24,6,6,1 Bowl,Weight Loss,Indian,Healthy mixed vegetables.
+FD091,Roti,Grains,Lunch,Yes,110,4,22,1,3,1 Piece,Maintenance,Indian,Whole wheat chapati.
+FD092,Multigrain Roti,Grains,Lunch,Yes,120,5,21,2,4,1 Piece,Weight Loss,Indian,High fiber multigrain roti.
+FD093,Bajra Roti,Grains,Lunch,Yes,130,4,24,2,4,1 Piece,Maintenance,Indian,Bajra flatbread.
+FD094,Jowar Roti,Grains,Lunch,Yes,125,4,23,2,4,1 Piece,Weight Loss,Indian,Jowar flatbread.
+FD095,Quinoa Khichdi,Grains,Lunch,Yes,290,12,42,7,6,1 Bowl,Weight Loss,Fusion,Protein rich quinoa khichdi.
+FD096,Vegetable Khichdi,Grains,Lunch,Yes,260,9,44,5,5,1 Bowl,Maintenance,Indian,Rice and lentils with vegetables.
+FD097,Curd Rice,Dairy,Lunch,Yes,300,10,42,9,2,1 Bowl,Maintenance,South Indian,Rice mixed with curd.
+FD098,Lemon Rice,Grains,Lunch,Yes,290,6,46,8,3,1 Bowl,Maintenance,South Indian,Rice flavored with lemon.
+FD099,Curd,Dairy,Lunch,Yes,120,6,8,6,0,100 g,Weight Loss,Indian,Fresh homemade curd.
+FD100,Mixed Salad,Vegetables,Lunch,Yes,90,3,14,2,5,1 Bowl,Weight Loss,International,Fresh vegetable salad.
+
+FD101,Grilled Chicken with Rice,Chicken,Dinner,No,480,42,42,10,2,1 Plate,Muscle Gain,Continental,Grilled chicken served with steamed rice.
+FD102,Chicken Stir Fry,Chicken,Dinner,No,420,38,20,14,4,1 Plate,Weight Loss,Chinese,Chicken stir fried with vegetables.
+FD103,Chicken Salad,Chicken,Dinner,No,310,35,10,12,5,1 Bowl,Weight Loss,Continental,Fresh grilled chicken salad.
+FD104,Tandoori Chicken,Chicken,Dinner,No,330,40,5,10,1,200 g,Muscle Gain,Indian,Charcoal grilled chicken.
+FD105,Chicken Soup,Chicken,Dinner,No,220,22,8,8,2,1 Bowl,Weight Loss,Continental,Healthy chicken soup.
+FD106,Grilled Fish,Fish,Dinner,No,290,36,2,10,0,180 g,Muscle Gain,Continental,Fresh grilled fish fillet.
+FD107,Fish Curry,Fish,Dinner,No,340,32,10,15,2,1 Bowl,Maintenance,Indian,Traditional fish curry.
+FD108,Tuna Salad,Fish,Dinner,No,280,34,8,8,3,1 Bowl,Weight Loss,Continental,Protein rich tuna salad.
+FD109,Egg Curry,Eggs,Dinner,No,320,22,10,20,2,2 Eggs,Muscle Gain,Indian,Boiled eggs in spicy gravy.
+FD110,Boiled Eggs,Eggs,Dinner,No,210,18,2,14,0,3 Eggs,Muscle Gain,International,Simple boiled eggs.
+
+FD111,Paneer Curry,Dairy,Dinner,Yes,360,24,12,24,3,1 Bowl,Muscle Gain,North Indian,Protein rich paneer curry.
+FD112,Palak Paneer,Dairy,Dinner,Yes,340,23,10,22,4,1 Bowl,Muscle Gain,North Indian,Spinach cooked with paneer.
+FD113,Kadai Paneer,Dairy,Dinner,Yes,370,22,14,24,3,1 Bowl,Maintenance,North Indian,Spicy kadai paneer.
+FD114,Tofu Stir Fry,Protein Foods,Dinner,Yes,260,22,14,10,5,1 Plate,Weight Loss,Chinese,Tofu stir fried with vegetables.
+FD115,Soya Chunks Curry,Pulses,Dinner,Yes,300,28,18,8,8,1 Bowl,Muscle Gain,Indian,Soya chunks cooked in tomato gravy.
+FD116,Dal Tadka,Pulses,Dinner,Yes,240,14,28,7,6,1 Bowl,Maintenance,Indian,Yellow lentils tempered with spices.
+FD117,Mixed Dal,Pulses,Dinner,Yes,250,15,30,6,7,1 Bowl,Muscle Gain,Indian,Protein rich mixed lentils.
+FD118,Rajma Curry,Pulses,Dinner,Yes,280,15,36,7,9,1 Bowl,Weight Loss,North Indian,Healthy kidney bean curry.
+FD119,Chole Masala,Pulses,Dinner,Yes,310,16,38,8,10,1 Bowl,Maintenance,North Indian,Classic chickpea curry.
+FD120,Vegetable Curry,Vegetables,Dinner,Yes,180,6,22,6,6,1 Bowl,Weight Loss,Indian,Seasonal mixed vegetables.
+
+FD121,Brown Rice,Grains,Dinner,Yes,220,5,45,2,3,150 g,Weight Loss,Indian,Whole grain brown rice.
+FD122,Steamed Rice,Grains,Dinner,Yes,210,4,46,0,1,150 g,Maintenance,Indian,Simple steamed rice.
+FD123,Roti,Grains,Dinner,Yes,110,4,22,1,3,1 Piece,Maintenance,Indian,Whole wheat chapati.
+FD124,Multigrain Roti,Grains,Dinner,Yes,120,5,21,2,4,1 Piece,Weight Loss,Indian,High fiber multigrain roti.
+FD125,Bajra Roti,Grains,Dinner,Yes,130,4,24,2,4,1 Piece,Maintenance,Indian,Bajra flatbread.
+FD126,Jowar Roti,Grains,Dinner,Yes,125,4,23,2,4,1 Piece,Weight Loss,Indian,Jowar flatbread.
+FD127,Quinoa Bowl,Grains,Dinner,Yes,300,12,44,6,6,1 Bowl,Weight Loss,Continental,Healthy quinoa bowl.
+FD128,Vegetable Khichdi,Grains,Dinner,Yes,260,9,44,5,5,1 Bowl,Maintenance,Indian,Rice and lentils cooked together.
+FD129,Quinoa Khichdi,Grains,Dinner,Yes,290,12,42,7,6,1 Bowl,Weight Loss,Fusion,High protein quinoa khichdi.
+FD130,Curd Rice,Dairy,Dinner,Yes,300,10,42,9,2,1 Bowl,Maintenance,South Indian,Rice mixed with curd.
+
+FD131,Mixed Vegetable Salad,Vegetables,Dinner,Yes,90,3,14,2,5,1 Bowl,Weight Loss,International,Fresh vegetable salad.
+FD132,Cucumber Salad,Vegetables,Dinner,Yes,60,2,10,1,3,1 Bowl,Weight Loss,International,Cucumber and herbs.
+FD133,Tomato Salad,Vegetables,Dinner,Yes,70,2,12,1,3,1 Bowl,Weight Loss,International,Fresh tomato slices.
+FD134,Greek Salad,Vegetables,Dinner,Yes,180,8,12,10,4,1 Bowl,Maintenance,Mediterranean,Greek style vegetable salad.
+FD135,Sprouts Salad,Pulses,Dinner,Yes,220,16,28,4,8,1 Bowl,Weight Loss,Indian,Protein rich sprouts.
+FD136,Fruit Bowl,Fruits,Dinner,Yes,180,3,42,1,6,1 Bowl,Weight Loss,International,Mixed seasonal fruits.
+FD137,Curd,Dairy,Dinner,Yes,120,6,8,6,0,100 g,Weight Loss,Indian,Fresh curd.
+FD138,Buttermilk,Beverages,Dinner,Yes,80,4,8,3,0,250 ml,Weight Loss,Indian,Refreshing buttermilk.
+FD139,Vegetable Soup,Vegetables,Dinner,Yes,110,5,16,3,4,1 Bowl,Weight Loss,Continental,Healthy vegetable soup.
+FD140,Tomato Soup,Vegetables,Dinner,Yes,120,4,18,3,3,1 Bowl,Weight Loss,Continental,Creamy tomato soup.
+
+FD141,Lentil Soup,Pulses,Dinner,Yes,190,14,24,4,6,1 Bowl,Muscle Gain,Continental,Protein rich lentil soup.
+FD142,Mushroom Soup,Vegetables,Dinner,Yes,150,7,12,6,3,1 Bowl,Weight Loss,Continental,Creamy mushroom soup.
+FD143,Paneer Salad,Dairy,Dinner,Yes,280,22,10,16,3,1 Bowl,Muscle Gain,Indian,Fresh paneer with vegetables.
+FD144,Tofu Salad,Protein Foods,Dinner,Yes,250,20,12,12,4,1 Bowl,Weight Loss,Continental,Healthy tofu salad.
+FD145,Chicken Wrap,Chicken,Dinner,No,390,30,28,12,3,1 Wrap,Muscle Gain,American,Whole wheat grilled chicken wrap.
+FD146,Paneer Wrap,Dairy,Dinner,Yes,380,22,34,14,4,1 Wrap,Muscle Gain,Indian,Whole wheat paneer wrap.
+FD147,Tofu Wrap,Protein Foods,Dinner,Yes,340,20,30,12,4,1 Wrap,Weight Loss,Continental,Healthy tofu wrap.
+FD148,Egg Wrap,Eggs,Dinner,No,350,24,28,14,3,1 Wrap,Muscle Gain,International,Egg wrap with vegetables.
+FD149,Grilled Paneer,Dairy,Dinner,Yes,310,26,8,18,2,150 g,Muscle Gain,Indian,Grilled paneer cubes.
+FD150,Grilled Tofu,Protein Foods,Dinner,Yes,260,22,8,12,3,150 g,Weight Loss,Continental,Grilled tofu cubes.
+
+food_id,food_name,category,meal_type,vegetarian,calories,protein,carbs,fats,fiber,serving_size,goal,cuisine,description
+FD151,Roasted Chana,Healthy Snacks,Snack,Yes,180,10,24,3,8,50 g,Weight Loss,Indian,High protein roasted chickpeas.
+FD152,Roasted Makhana,Healthy Snacks,Snack,Yes,160,6,24,2,4,40 g,Weight Loss,Indian,Roasted fox nuts with light spices.
+FD153,Mixed Nuts,Nuts,Snack,Yes,320,10,18,26,5,50 g,Weight Gain,International,Almonds walnuts and cashews.
+FD154,Almonds,Nuts,Snack,Yes,170,6,6,15,4,30 g,Muscle Gain,International,Raw almonds.
+FD155,Walnuts,Nuts,Snack,Yes,190,5,4,19,2,30 g,Maintenance,International,Healthy omega-3 rich walnuts.
+FD156,Cashews,Nuts,Snack,Yes,180,5,10,14,1,30 g,Weight Gain,International,Premium roasted cashews.
+FD157,Pistachios,Nuts,Snack,Yes,170,6,8,13,3,30 g,Maintenance,International,Salted pistachios.
+FD158,Peanuts,Nuts,Snack,Yes,180,8,8,15,3,30 g,Weight Gain,Indian,Roasted peanuts.
+FD159,Peanut Butter,Nuts,Snack,Yes,190,8,7,16,2,2 tbsp,Weight Gain,American,Natural peanut butter.
+FD160,Trail Mix,Nuts,Snack,Yes,290,8,24,18,5,50 g,Maintenance,International,Dry fruits and seeds mix.
+
+FD161,Apple,Fruits,Snack,Yes,95,0,25,0,4,1 Medium,Weight Loss,International,Fresh apple.
+FD162,Banana,Fruits,Snack,Yes,110,1,27,0,3,1 Medium,Weight Gain,International,Fresh banana.
+FD163,Orange,Fruits,Snack,Yes,80,1,19,0,4,1 Medium,Weight Loss,International,Fresh orange.
+FD164,Papaya,Fruits,Snack,Yes,60,1,15,0,3,150 g,Weight Loss,Tropical,Ripe papaya slices.
+FD165,Watermelon,Fruits,Snack,Yes,50,1,12,0,1,200 g,Weight Loss,Tropical,Fresh watermelon.
+FD166,Pineapple,Fruits,Snack,Yes,80,1,21,0,2,150 g,Maintenance,Tropical,Fresh pineapple.
+FD167,Grapes,Fruits,Snack,Yes,90,1,23,0,2,150 g,Maintenance,International,Fresh grapes.
+FD168,Guava,Fruits,Snack,Yes,90,3,20,1,5,150 g,Weight Loss,Indian,Vitamin C rich guava.
+FD169,Mixed Fruit Bowl,Fruits,Snack,Yes,180,3,40,1,6,1 Bowl,Maintenance,International,Seasonal mixed fruits.
+FD170,Berries Bowl,Fruits,Snack,Yes,120,2,28,1,6,1 Bowl,Weight Loss,International,Blueberries strawberries and raspberries.
+
+FD171,Greek Yogurt,Dairy,Snack,Yes,140,18,8,3,0,150 g,Muscle Gain,Continental,Protein rich yogurt.
+FD172,Curd,Dairy,Snack,Yes,120,6,8,6,0,150 g,Weight Loss,Indian,Fresh homemade curd.
+FD173,Cottage Cheese,Dairy,Snack,Yes,220,22,8,12,1,150 g,Muscle Gain,Continental,Low fat cottage cheese.
+FD174,Paneer Cubes,Dairy,Snack,Yes,260,22,8,16,1,100 g,Muscle Gain,Indian,Fresh paneer cubes.
+FD175,Tofu Cubes,Protein Foods,Snack,Yes,180,18,6,8,2,100 g,Weight Loss,Continental,Fresh tofu cubes.
+FD176,Protein Shake,Protein Foods,Snack,Yes,220,30,6,3,1,1 Scoop,Muscle Gain,International,Whey protein shake.
+FD177,Chocolate Protein Shake,Protein Foods,Snack,Yes,240,30,8,4,1,1 Scoop,Muscle Gain,International,Chocolate flavored whey shake.
+FD178,Milk,Dairy,Snack,Yes,150,8,12,8,0,250 ml,Maintenance,Indian,Low fat milk.
+FD179,Chocolate Milk,Dairy,Snack,Yes,220,10,28,8,1,250 ml,Weight Gain,International,Chocolate flavored milk.
+FD180,Buttermilk,Beverages,Snack,Yes,80,4,8,3,0,250 ml,Weight Loss,Indian,Refreshing buttermilk.
+
+FD181,Vegetable Sandwich,Grains,Snack,Yes,280,9,38,8,5,2 Slices,Maintenance,Indian,Whole wheat vegetable sandwich.
+FD182,Paneer Sandwich,Dairy,Snack,Yes,360,22,34,14,4,2 Slices,Muscle Gain,Indian,High protein paneer sandwich.
+FD183,Chicken Sandwich,Chicken,Snack,No,380,30,30,12,3,2 Slices,Muscle Gain,Continental,Grilled chicken sandwich.
+FD184,Egg Sandwich,Eggs,Snack,No,340,22,28,12,3,2 Slices,Muscle Gain,Continental,Egg sandwich.
+FD185,Peanut Butter Toast,Nuts,Snack,Yes,330,12,32,16,4,2 Slices,Weight Gain,American,Toast with peanut butter.
+FD186,Whole Wheat Toast,Grains,Snack,Yes,180,8,30,3,4,2 Slices,Weight Loss,Continental,Whole wheat bread toast.
+FD187,Corn Chaat,Vegetables,Snack,Yes,190,7,30,4,5,1 Bowl,Maintenance,Indian,Sweet corn chaat.
+FD188,Sprouts Chaat,Pulses,Snack,Yes,220,16,28,4,8,1 Bowl,Weight Loss,Indian,Protein rich sprouts salad.
+FD189,Boiled Corn,Vegetables,Snack,Yes,150,5,30,2,4,1 Bowl,Maintenance,International,Steamed sweet corn.
+FD190,Hummus with Carrots,Protein Foods,Snack,Yes,210,8,18,10,6,1 Plate,Weight Loss,Middle Eastern,Hummus served with carrots.
+
+FD191,Oats Cookies,Healthy Snacks,Snack,Yes,180,5,28,5,3,3 Pieces,Maintenance,Continental,Healthy oats cookies.
+FD192,Protein Bar,Protein Foods,Snack,Yes,220,20,22,8,5,1 Bar,Muscle Gain,International,High protein snack bar.
+FD193,Energy Bar,Healthy Snacks,Snack,Yes,240,8,32,9,4,1 Bar,Weight Gain,International,Energy boosting snack.
+FD194,Dark Chocolate,Healthy Snacks,Snack,Yes,170,3,16,11,3,30 g,Maintenance,International,70% dark chocolate.
+FD195,Rice Cakes,Grains,Snack,Yes,120,3,24,1,1,2 Cakes,Weight Loss,International,Light rice cakes.
+FD196,Boiled Sweet Potato,Vegetables,Snack,Yes,140,3,32,0,5,150 g,Weight Loss,Indian,Boiled sweet potato.
+FD197,Baked Sweet Potato,Vegetables,Snack,Yes,170,3,36,1,5,150 g,Maintenance,International,Baked sweet potato.
+FD198,Vegetable Soup,Vegetables,Snack,Yes,110,5,16,3,4,1 Bowl,Weight Loss,Continental,Healthy vegetable soup.
+FD199,Tomato Soup,Vegetables,Snack,Yes,120,4,18,3,3,1 Bowl,Weight Loss,Continental,Creamy tomato soup.
+FD200,Mushroom Soup,Vegetables,Snack,Yes,150,7,12,6,3,1 Bowl,Weight Loss,Continental,Healthy mushroom soup.
+
+FD081,Chicken Biryani,Non Veg,Dinner,No,520,32,52,18,4,1 Plate
+FD082,Veg Biryani,Rice,Dinner,Yes,430,11,68,12,6,1 Plate
+FD083,Brown Rice,Rice,Lunch,Yes,215,5,45,2,4,1 Cup
+FD084,Jeera Rice,Rice,Lunch,Yes,250,5,48,5,2,1 Cup
+FD085,Steamed Rice,Rice,Lunch,Yes,205,4,45,0,1,1 Cup
+FD086,Boiled Sweet Potato,Root,Snack,Yes,180,4,41,0,5,200 g
+FD087,Grilled Chicken Breast,Protein,Lunch,No,280,54,0,6,0,200 g
+FD088,Boiled Eggs,Protein,Breakfast,No,155,13,1,11,0,2 Eggs
+FD089,Egg Omelette,Egg,Breakfast,No,210,18,3,14,0,2 Eggs
+FD090,Egg Bhurji,Egg,Breakfast,No,240,20,5,15,1,2 Eggs
+FD091,Paneer Bhurji,Paneer,Breakfast,Yes,320,22,8,24,2,200 g
+FD092,Soya Chunks Curry,Soya,Lunch,Yes,310,34,18,9,7,200 g
+FD093,Grilled Fish,Seafood,Dinner,No,280,36,0,12,0,200 g
+FD094,Tuna Salad,Seafood,Lunch,No,260,34,8,10,3,1 Bowl
+FD095,Prawn Curry,Seafood,Dinner,No,330,30,10,18,2,1 Bowl
+FD096,Protein Smoothie,Beverage,Breakfast,Yes,380,35,40,8,5,400 ml
+FD097,Mass Gainer Shake,Beverage,Snack,Yes,620,32,82,16,8,500 ml
+FD098,Greek Yogurt Bowl,Dairy,Breakfast,Yes,250,22,24,6,3,250 g
+FD099,Fruit Yogurt,Dairy,Snack,Yes,220,12,28,4,2,200 g
+FD100,Protein Pancakes,Breakfast,Breakfast,Yes,360,28,35,9,4,3 Pieces
+
+FD101,Moong Dal Chilla,Indian,Breakfast,Yes,290,18,30,9,5,2 Pieces
+FD102,Besan Chilla,Indian,Breakfast,Yes,280,15,32,8,4,2 Pieces
+FD103,Ragi Dosa,Indian,Breakfast,Yes,250,8,42,5,5,2 Pieces
+FD104,Multigrain Toast,Bakery,Breakfast,Yes,180,8,28,3,4,2 Slices
+FD105,Peanut Butter Toast,Breakfast,Breakfast,Yes,320,14,30,16,5,2 Slices
+FD106,Paneer Sandwich,Breakfast,Breakfast,Yes,350,20,34,14,3,1 Sandwich
+FD107,Chicken Sandwich,Breakfast,Breakfast,No,390,28,34,13,3,1 Sandwich
+FD108,Turkey Sandwich,Breakfast,Breakfast,No,360,26,32,10,4,1 Sandwich
+FD109,Veg Sandwich,Breakfast,Breakfast,Yes,250,10,35,7,5,1 Sandwich
+FD110,Grilled Veg Sandwich,Breakfast,Breakfast,Yes,280,12,36,8,5,1 Sandwich
+
+FD111,Quinoa Salad,Salad,Lunch,Yes,310,14,42,8,7,1 Bowl
+FD112,Chicken Salad,Salad,Lunch,No,340,35,12,14,4,1 Bowl
+FD113,Paneer Salad,Salad,Lunch,Yes,330,22,14,20,4,1 Bowl
+FD114,Sprouts Salad,Salad,Snack,Yes,220,16,28,4,7,1 Bowl
+FD115,Fruit Salad,Fruit,Snack,Yes,180,3,42,1,6,1 Bowl
+FD116,Cucumber Salad,Salad,Snack,Yes,90,2,12,1,3,1 Bowl
+FD117,Tomato Salad,Salad,Snack,Yes,95,2,14,1,3,1 Bowl
+FD118,Boiled Corn,Snack,Snack,Yes,170,6,36,2,4,150 g
+FD119,Roasted Makhana,Snack,Snack,Yes,150,6,20,4,3,40 g
+FD120,Trail Mix,Snack,Snack,Yes,320,10,22,22,5,50 g
+
+FD121,Idli Sambar,South Indian,Breakfast,Yes,220,8,42,2,5,2 Idlis + Sambar
+FD122,Plain Dosa,South Indian,Breakfast,Yes,260,6,42,8,2,1 Dosa
+FD123,Masala Dosa,South Indian,Breakfast,Yes,390,8,52,16,4,1 Dosa
+FD124,Rava Dosa,South Indian,Breakfast,Yes,320,7,45,12,3,1 Dosa
+FD125,Uttapam,South Indian,Breakfast,Yes,310,9,46,10,4,1 Uttapam
+FD126,Vegetable Upma,South Indian,Breakfast,Yes,270,8,44,8,4,1 Bowl
+FD127,Poha,South Indian,Breakfast,Yes,250,6,45,5,3,1 Bowl
+FD128,Pongal,South Indian,Breakfast,Yes,320,9,46,10,3,1 Bowl
+FD129,Lemon Rice,South Indian,Lunch,Yes,340,7,58,9,3,1 Plate
+FD130,Curd Rice,South Indian,Lunch,Yes,300,8,46,8,2,1 Bowl
+
+FD131,Rajma Chawal,North Indian,Lunch,Yes,430,16,68,10,10,1 Plate
+FD132,Chole Bhature,North Indian,Lunch,Yes,620,18,72,26,8,1 Plate
+FD133,Kadhi Chawal,North Indian,Lunch,Yes,420,13,58,14,4,1 Plate
+FD134,Aloo Paratha,North Indian,Breakfast,Yes,360,10,42,16,5,2 Pieces
+FD135,Gobi Paratha,North Indian,Breakfast,Yes,330,10,40,14,5,2 Pieces
+FD136,Mixed Veg Curry,North Indian,Lunch,Yes,240,8,24,10,6,1 Bowl
+FD137,Paneer Butter Masala,North Indian,Dinner,Yes,430,18,18,34,3,1 Bowl
+FD138,Dal Tadka,North Indian,Lunch,Yes,250,14,26,9,7,1 Bowl
+FD139,Jeera Aloo,North Indian,Lunch,Yes,230,5,32,8,4,1 Bowl
+FD140,Palak Paneer,North Indian,Dinner,Yes,340,20,12,22,5,1 Bowl
+
+FD141,Veg Fried Rice,Chinese,Dinner,Yes,390,10,62,10,4,1 Plate
+FD142,Chicken Fried Rice,Chinese,Dinner,No,470,22,58,14,3,1 Plate
+FD143,Hakka Noodles,Chinese,Dinner,Yes,420,11,64,12,4,1 Plate
+FD144,Chicken Noodles,Chinese,Dinner,No,480,24,60,15,3,1 Plate
+FD145,Veg Manchurian,Chinese,Dinner,Yes,350,8,36,18,4,1 Bowl
+FD146,Chicken Manchurian,Chinese,Dinner,No,410,28,18,22,2,1 Bowl
+FD147,Veg Spring Rolls,Chinese,Snack,Yes,310,8,34,16,3,4 Pieces
+FD148,Chicken Spring Rolls,Chinese,Snack,No,360,16,30,18,2,4 Pieces
+FD149,Hot & Sour Soup,Chinese,Snack,Yes,140,6,18,4,2,1 Bowl
+FD150,Chicken Soup,Chinese,Snack,No,180,18,8,7,1,1 Bowl
+
+FD151,Margherita Pizza,Italian,Dinner,Yes,420,16,48,18,3,2 Slices
+FD152,Veg Pasta,Italian,Dinner,Yes,430,14,60,14,5,1 Plate
+FD153,Chicken Pasta,Italian,Dinner,No,510,28,58,18,4,1 Plate
+FD154,White Sauce Pasta,Italian,Dinner,Yes,560,18,62,26,3,1 Plate
+FD155,Red Sauce Pasta,Italian,Dinner,Yes,420,12,64,12,5,1 Plate
+FD156,Grilled Chicken Pasta,Italian,Dinner,No,520,34,52,16,4,1 Plate
+FD157,Lasagna,Italian,Dinner,No,580,28,48,28,4,1 Slice
+FD158,Garlic Bread,Italian,Snack,Yes,210,6,28,8,2,2 Pieces
+FD159,Minestrone Soup,Italian,Snack,Yes,180,7,24,5,5,1 Bowl
+FD160,Chicken Caesar Salad,Italian,Lunch,No,350,30,12,18,3,1 Bowl
+
+FD161,Chicken Rice Bowl,Weight Gain,Lunch,No,650,42,68,18,4,1 Bowl
+FD162,Paneer Rice Bowl,Weight Gain,Lunch,Yes,610,28,66,24,4,1 Bowl
+FD163,Chicken Burrito,Weight Gain,Lunch,No,690,38,72,22,6,1 Burrito
+FD164,Paneer Burrito,Weight Gain,Lunch,Yes,640,26,70,24,6,1 Burrito
+FD165,Beef Steak with Rice,Weight Gain,Dinner,No,760,48,62,30,2,1 Plate
+FD166,Chicken Steak,Weight Gain,Dinner,No,680,45,54,24,3,1 Plate
+FD167,Grilled Paneer Steak,Weight Gain,Dinner,Yes,590,32,30,34,2,1 Plate
+FD168,Chicken Wrap,Weight Gain,Snack,No,520,32,44,18,3,1 Wrap
+FD169,Paneer Wrap,Weight Gain,Snack,Yes,490,22,42,22,3,1 Wrap
+FD170,Peanut Butter Banana Shake,Weight Gain,Snack,Yes,620,24,74,26,7,500 ml
+
+FD171,Oats Mass Gainer Shake,Weight Gain,Breakfast,Yes,720,34,88,22,9,600 ml
+FD172,Chocolate Protein Shake,Weight Gain,Snack,Yes,470,36,42,12,4,400 ml
+FD173,Banana Oats Smoothie,Weight Gain,Breakfast,Yes,510,20,72,14,8,450 ml
+FD174,Dry Fruit Milkshake,Weight Gain,Snack,Yes,640,18,76,28,6,500 ml
+FD175,Avocado Smoothie,Weight Gain,Snack,Yes,520,12,40,34,8,400 ml
+FD176,Mango Protein Shake,Weight Gain,Snack,Yes,480,30,56,10,5,450 ml
+FD177,Strawberry Protein Shake,Weight Gain,Snack,Yes,430,32,40,8,4,400 ml
+FD178,Dates Milkshake,Weight Gain,Snack,Yes,560,18,74,18,6,450 ml
+FD179,Almond Banana Shake,Weight Gain,Snack,Yes,540,20,62,22,5,450 ml
+FD180,Mixed Nut Smoothie,Weight Gain,Snack,Yes,610,22,48,34,7,450 ml
+
+FD181,Chicken & Sweet Potato,Muscle Building,Dinner,No,590,46,48,16,5,1 Plate
+FD182,Paneer & Sweet Potato,Muscle Building,Dinner,Yes,560,28,46,22,5,1 Plate
+FD183,Salmon with Rice,Muscle Building,Dinner,No,640,42,48,24,2,1 Plate
+FD184,Tofu Rice Bowl,Muscle Building,Lunch,Yes,520,30,52,16,5,1 Bowl
+FD185,Soya Rice Bowl,Muscle Building,Lunch,Yes,560,36,50,18,6,1 Bowl
+FD186,Egg Rice Bowl,Muscle Building,Lunch,No,540,28,54,18,2,1 Bowl
+FD187,Chicken Quinoa Bowl,Muscle Building,Lunch,No,610,44,46,18,6,1 Bowl
+FD188,Paneer Quinoa Bowl,Muscle Building,Lunch,Yes,580,30,44,22,6,1 Bowl
+FD189,Tuna Rice Bowl,Muscle Building,Lunch,No,560,40,48,14,3,1 Bowl
+FD190,Scrambled Eggs Toast,Muscle Building,Breakfast,No,420,24,30,18,3,2 Toasts
+
+FD191,High Protein Khichdi,Muscle Building,Lunch,Yes,460,24,54,10,8,1 Bowl
+FD192,Protein Upma,Muscle Building,Breakfast,Yes,390,22,42,10,5,1 Bowl
+FD193,Protein Poha,Muscle Building,Breakfast,Yes,380,20,44,9,5,1 Bowl
+FD194,Chicken Oats Bowl,Muscle Building,Breakfast,No,510,38,42,14,5,1 Bowl
+FD195,Paneer Oats Bowl,Muscle Building,Breakfast,Yes,480,28,40,18,5,1 Bowl
+FD196,Egg & Avocado Toast,Muscle Building,Breakfast,No,450,24,28,22,6,2 Slices
+FD197,Cottage Cheese Bowl,Muscle Building,Snack,Yes,340,28,14,18,2,200 g
+FD198,Greek Yogurt Protein Bowl,Muscle Building,Snack,Yes,320,30,24,8,3,250 g
+FD199,Protein Fruit Bowl,Muscle Building,Snack,Yes,350,26,38,8,6,1 Bowl
+FD200,Chicken Protein Bowl,Muscle Building,Dinner,No,620,48,42,20,4,1 Bowl
+
+FD201,Grilled Chicken Salad,Weight Loss,Lunch,No,280,34,10,8,4,1 Bowl
+FD202,Paneer Salad,Weight Loss,Lunch,Yes,290,22,12,14,4,1 Bowl
+FD203,Tofu Salad,Weight Loss,Lunch,Yes,250,20,10,10,5,1 Bowl
+FD204,Sprouts Salad,Weight Loss,Snack,Yes,220,18,24,4,8,1 Bowl
+FD205,Cucumber Tomato Salad,Weight Loss,Snack,Yes,120,3,12,2,5,1 Bowl
+FD206,Greek Yogurt Bowl,Weight Loss,Breakfast,Yes,230,22,18,6,3,200 g
+FD207,Boiled Egg Salad,Weight Loss,Breakfast,No,260,24,8,14,2,1 Bowl
+FD208,Tuna Salad,Weight Loss,Lunch,No,290,36,8,10,3,1 Bowl
+FD209,Chicken Lettuce Wrap,Weight Loss,Lunch,No,300,32,12,10,3,2 Wraps
+FD210,Paneer Lettuce Wrap,Weight Loss,Lunch,Yes,320,22,14,16,3,2 Wraps
+
+FD211,Oats Porridge,Weight Loss,Breakfast,Yes,240,10,36,6,5,1 Bowl
+FD212,Vegetable Oats,Weight Loss,Breakfast,Yes,260,12,38,6,6,1 Bowl
+FD213,Moong Dal Chilla,Weight Loss,Breakfast,Yes,280,18,28,8,5,2 Pieces
+FD214,Besan Chilla,Weight Loss,Breakfast,Yes,270,16,30,7,5,2 Pieces
+FD215,Vegetable Soup,Weight Loss,Dinner,Yes,170,6,20,4,5,1 Bowl
+FD216,Tomato Soup,Weight Loss,Dinner,Yes,150,5,18,4,3,1 Bowl
+FD217,Mushroom Soup,Weight Loss,Dinner,Yes,180,8,14,8,3,1 Bowl
+FD218,Lentil Soup,Weight Loss,Dinner,Yes,220,16,28,4,8,1 Bowl
+FD219,Chicken Soup,Weight Loss,Dinner,No,210,24,8,8,2,1 Bowl
+FD220,Clear Veg Soup,Weight Loss,Dinner,Yes,120,4,16,2,3,1 Bowl
+
+FD221,Grilled Fish,Weight Loss,Dinner,No,290,38,0,12,0,200 g
+FD222,Steamed Fish,Weight Loss,Dinner,No,250,36,0,8,0,200 g
+FD223,Grilled Tofu,Weight Loss,Dinner,Yes,260,22,8,12,3,200 g
+FD224,Soya Chunks Bowl,Weight Loss,Lunch,Yes,300,34,18,8,7,200 g
+FD225,Paneer Stir Fry,Weight Loss,Dinner,Yes,310,24,12,18,4,1 Bowl
+FD226,Chicken Stir Fry,Weight Loss,Dinner,No,330,36,14,12,4,1 Bowl
+FD227,Vegetable Stir Fry,Weight Loss,Dinner,Yes,220,8,22,8,6,1 Bowl
+FD228,Broccoli Bowl,Weight Loss,Lunch,Yes,180,8,16,6,6,200 g
+FD229,Spinach Paneer Light,Weight Loss,Dinner,Yes,290,20,10,16,4,1 Bowl
+FD230,Boiled Chicken Breast,Weight Loss,Dinner,No,260,50,0,4,0,200 g
+
+FD231,Apple Cinnamon Oats,Weight Loss,Breakfast,Yes,260,9,40,5,6,1 Bowl
+FD232,Berry Yogurt Bowl,Weight Loss,Breakfast,Yes,240,20,22,5,5,1 Bowl
+FD233,Fruit Bowl,Weight Loss,Snack,Yes,180,3,40,1,7,1 Bowl
+FD234,Roasted Chickpeas,Weight Loss,Snack,Yes,210,12,28,5,8,50 g
+FD235,Roasted Makhana,Weight Loss,Snack,Yes,160,6,22,4,4,40 g
+FD236,Boiled Corn Cup,Weight Loss,Snack,Yes,170,6,34,2,5,150 g
+FD237,Protein Smoothie Light,Weight Loss,Snack,Yes,260,30,18,4,3,300 ml
+FD238,Cottage Cheese Bowl,Weight Loss,Snack,Yes,280,26,10,14,2,200 g
+FD239,Mixed Vegetable Bowl,Weight Loss,Lunch,Yes,240,10,28,8,7,1 Bowl
+FD240,Quinoa Veg Bowl,Weight Loss,Lunch,Yes,320,14,42,8,7,1 Bowl
+
+FD241,Chicken Breast with Brown Rice,Muscle Building,Lunch,No,540,48,42,12,4,1 Plate
+FD242,Grilled Chicken & Quinoa,Muscle Building,Lunch,No,560,46,40,14,5,1 Plate
+FD243,Chicken Sweet Potato Bowl,Muscle Building,Dinner,No,590,45,48,15,6,1 Bowl
+FD244,Lean Beef Rice Bowl,Muscle Building,Dinner,No,640,48,46,22,3,1 Bowl
+FD245,Turkey Breast Meal,Muscle Building,Lunch,No,520,44,38,12,3,1 Plate
+FD246,Salmon with Brown Rice,Muscle Building,Dinner,No,610,42,40,22,2,1 Plate
+FD247,Tuna Rice Bowl,Muscle Building,Lunch,No,530,40,42,12,3,1 Bowl
+FD248,Grilled Fish & Vegetables,Muscle Building,Dinner,No,470,38,20,18,4,1 Plate
+FD249,Prawn Rice Bowl,Muscle Building,Lunch,No,520,42,40,12,3,1 Bowl
+FD250,Egg & Chicken Combo,Muscle Building,Dinner,No,580,50,18,28,2,1 Plate
+
+FD251,Paneer Rice Bowl,Muscle Building,Lunch,Yes,560,30,44,22,4,1 Bowl
+FD252,Soya Chunks Rice Bowl,Muscle Building,Lunch,Yes,540,38,40,14,6,1 Bowl
+FD253,Tofu Stir Fry Bowl,Muscle Building,Dinner,Yes,480,28,26,18,5,1 Bowl
+FD254,Paneer Quinoa Bowl,Muscle Building,Lunch,Yes,560,32,38,22,5,1 Bowl
+FD255,High Protein Khichdi,Muscle Building,Lunch,Yes,460,24,50,10,8,1 Bowl
+FD256,Mixed Dal Bowl,Muscle Building,Lunch,Yes,420,22,52,8,10,1 Bowl
+FD257,Rajma Brown Rice,Muscle Building,Lunch,Yes,490,20,66,8,11,1 Plate
+FD258,Chickpea Power Bowl,Muscle Building,Lunch,Yes,470,22,58,10,10,1 Bowl
+FD259,Lentil Quinoa Bowl,Muscle Building,Dinner,Yes,450,24,48,8,9,1 Bowl
+FD260,Protein Paneer Wrap,Muscle Building,Snack,Yes,410,28,30,16,4,1 Wrap
+
+FD261,Protein Oats Bowl,Muscle Building,Breakfast,Yes,430,28,46,10,8,1 Bowl
+FD262,Greek Yogurt Protein Bowl,Muscle Building,Breakfast,Yes,360,30,24,8,4,1 Bowl
+FD263,Egg White Omelette,Muscle Building,Breakfast,No,260,30,4,8,1,5 Egg Whites
+FD264,Chicken Omelette,Muscle Building,Breakfast,No,380,36,6,20,1,1 Plate
+FD265,Paneer Bhurji Toast,Muscle Building,Breakfast,Yes,420,26,32,18,4,2 Toasts
+FD266,Scrambled Eggs & Oats,Muscle Building,Breakfast,No,450,30,38,16,5,1 Plate
+FD267,Protein Pancakes,Muscle Building,Breakfast,Yes,390,28,36,10,4,3 Pieces
+FD268,Protein Smoothie Deluxe,Muscle Building,Breakfast,Yes,440,38,36,10,5,450 ml
+FD269,Cottage Cheese Bowl,Muscle Building,Snack,Yes,320,30,12,14,2,200 g
+FD270,Protein Fruit Bowl,Muscle Building,Snack,Yes,340,26,34,8,6,1 Bowl
+
+FD271,Post Workout Chicken Meal,Muscle Building,Post Workout,No,560,46,44,14,4,1 Plate
+FD272,Post Workout Paneer Meal,Muscle Building,Post Workout,Yes,540,30,42,18,4,1 Plate
+FD273,Recovery Protein Shake,Muscle Building,Post Workout,Yes,360,34,28,6,3,400 ml
+FD274,Pre Workout Oats Meal,Muscle Building,Pre Workout,Yes,410,20,54,10,7,1 Bowl
+FD275,Pre Workout Banana Oats,Muscle Building,Pre Workout,Yes,390,18,58,8,6,1 Bowl
+FD276,Athlete Chicken Bowl,Muscle Building,Lunch,No,620,50,46,18,4,1 Bowl
+FD277,Athlete Salmon Bowl,Muscle Building,Dinner,No,640,44,42,24,3,1 Bowl
+FD278,Athlete Paneer Bowl,Muscle Building,Lunch,Yes,600,34,40,24,4,1 Bowl
+FD279,Bodybuilder Chicken Meal,Muscle Building,Dinner,No,700,58,48,20,5,1 Plate
+FD280,Ultimate Protein Bowl,Muscle Building,Dinner,No,680,60,40,18,5,1 Bowl
+
+FD281,Avocado Toast Deluxe,Healthy,Breakfast,Yes,340,14,32,18,8,2 Slices
+FD282,Smoked Salmon Toast,Healthy,Breakfast,No,390,28,28,18,4,2 Slices
+FD283,Berry Smoothie Bowl,Smoothie Bowl,Breakfast,Yes,320,18,42,8,7,1 Bowl
+FD284,Tropical Smoothie Bowl,Smoothie Bowl,Breakfast,Yes,340,16,48,8,8,1 Bowl
+FD285,Green Detox Smoothie,Detox,Breakfast,Yes,180,8,28,2,7,400 ml
+FD286,Spinach Protein Smoothie,Smoothie,Breakfast,Yes,280,26,20,8,5,400 ml
+FD287,Chia Seed Pudding,Healthy,Breakfast,Yes,260,10,24,14,10,1 Bowl
+FD288,Overnight Protein Oats,Healthy,Breakfast,Yes,390,24,46,10,8,1 Jar
+FD289,Almond Yogurt Bowl,Healthy,Breakfast,Yes,310,18,28,12,5,1 Bowl
+FD290,Fruit & Nut Bowl,Healthy,Snack,Yes,300,10,34,14,7,1 Bowl
+
+FD291,Keto Chicken Bowl,Keto,Lunch,No,520,42,10,34,4,1 Bowl
+FD292,Keto Paneer Bowl,Keto,Lunch,Yes,500,28,12,34,5,1 Bowl
+FD293,Keto Egg Salad,Keto,Lunch,No,420,26,8,30,3,1 Bowl
+FD294,Keto Tofu Bowl,Keto,Dinner,Yes,450,24,10,28,5,1 Bowl
+FD295,Cauliflower Fried Rice,Keto,Dinner,Yes,280,12,16,14,6,1 Plate
+FD296,Zucchini Noodles,Keto,Dinner,Yes,240,10,18,12,5,1 Plate
+FD297,Lettuce Chicken Wrap,Keto,Snack,No,310,30,8,16,3,2 Wraps
+FD298,Cheese Omelette,Keto,Breakfast,No,340,24,4,24,1,3 Eggs
+FD299,Paneer Avocado Salad,Keto,Lunch,Yes,420,22,14,30,6,1 Bowl
+FD300,Grilled Chicken Avocado,Keto,Dinner,No,480,40,10,28,5,1 Plate
+
+FD301,Vegan Buddha Bowl,Vegan,Lunch,Yes,420,18,54,12,10,1 Bowl
+FD302,Vegan Protein Bowl,Vegan,Lunch,Yes,450,30,42,12,8,1 Bowl
+FD303,Tofu Quinoa Bowl,Vegan,Dinner,Yes,430,26,46,10,7,1 Bowl
+FD304,Edamame Rice Bowl,Vegan,Lunch,Yes,410,24,48,8,9,1 Bowl
+FD305,Falafel Bowl,Vegan,Lunch,Yes,460,18,54,16,9,1 Bowl
+FD306,Hummus Veg Wrap,Vegan,Snack,Yes,340,14,38,12,7,1 Wrap
+FD307,Vegan Smoothie,Vegan,Snack,Yes,280,22,30,6,5,400 ml
+FD308,Protein Chickpea Bowl,Vegan,Dinner,Yes,440,24,52,10,10,1 Bowl
+FD309,Tempeh Stir Fry,Vegan,Dinner,Yes,460,28,34,18,7,1 Plate
+FD310,Black Bean Burrito Bowl,Vegan,Lunch,Yes,470,22,60,12,12,1 Bowl
+
+FD311,Japanese Chicken Rice,International,Dinner,No,520,38,52,12,3,1 Bowl
+FD312,Korean Bibimbap,International,Lunch,No,540,30,58,16,5,1 Bowl
+FD313,Sushi Roll Platter,International,Lunch,No,420,24,56,8,3,8 Pieces
+FD314,Teriyaki Chicken,International,Dinner,No,510,36,42,16,3,1 Plate
+FD315,Mediterranean Chicken Bowl,International,Lunch,No,500,34,40,18,6,1 Bowl
+FD316,Mediterranean Veg Bowl,International,Lunch,Yes,450,18,48,16,8,1 Bowl
+FD317,Athlete Recovery Meal,Recovery,Post Workout,No,620,48,54,18,5,1 Plate
+FD318,Recovery Protein Smoothie,Recovery,Post Workout,Yes,380,36,30,8,4,450 ml
+FD319,Elite Muscle Meal,Premium,Dinner,No,720,58,52,22,5,1 Plate
+FD320,Ultimate AI Fitness Meal,Premium,Dinner,No,750,60,50,24,6,1 Plate

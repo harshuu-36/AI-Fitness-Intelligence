@@ -1,0 +1,7 @@
+,,0
+durationminutes,userid,0.0027815045559787368
+userid,durationminutes,0.0027815045559787368
+workoutid,durationminutes,0.0027823554898158474
+durationminutes,workoutid,0.0027823554898158474
+workoutid,userid,0.9999784288000653
+userid,workoutid,0.9999784288000653

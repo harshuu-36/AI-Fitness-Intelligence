@@ -1,0 +1,11 @@
+,,0
+fatg,carbsg,0.8932729924947436
+carbsg,fatg,0.8932729924947436
+proteing,caloriesconsumed,0.9075739885616826
+caloriesconsumed,proteing,0.9075739885616826
+caloriesconsumed,fatg,0.9348869329680881
+fatg,caloriesconsumed,0.9348869329680881
+caloriesconsumed,carbsg,0.9555201706872726
+carbsg,caloriesconsumed,0.9555201706872726
+mealid,userid,0.9999858719315736
+userid,mealid,0.9999858719315736

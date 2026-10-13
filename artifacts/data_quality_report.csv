@@ -1,0 +1,9 @@
+Table,Rows,Columns,Missing Values,Duplicate Rows,Memory (MB)
+Users,501,10,0,0,0.06
+Workouts,78719,6,0,0,4.94
+Diet,377070,8,0,0,28.95
+Sleep,116335,7,0,0,7.34
+DailyProgress,97981,4,0,0,3.94
+FoodItems,300,7,0,0,0.02
+Meals,52500,5,0,0,2.83
+MealItems,183138,4,0,0,5.59

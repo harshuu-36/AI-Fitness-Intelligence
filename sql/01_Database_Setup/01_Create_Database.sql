@@ -1,0 +1,6 @@
+IF DB_ID('AI_Fitness_DB') IS NULL
+    CREATE DATABASE AI_Fitness_DB
+GO
+
+USE AI_Fitness_DB
+GO

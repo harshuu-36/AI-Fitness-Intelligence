@@ -1,0 +1,218 @@
+exercise_id,exercise_name,muscle_group,difficulty,equipment,sets,reps,rest_seconds,exercise_type,calories_per_set,instructions
+EX001,Barbell Bench Press,Chest,Intermediate,Barbell,4,8-10,90,Compound,12,Lower bar to chest and press explosively.
+EX002,Incline Barbell Bench Press,Chest,Intermediate,Barbell,4,8-10,90,Compound,12,Focus on upper chest throughout movement.
+EX003,Decline Barbell Bench Press,Chest,Advanced,Barbell,4,8-10,90,Compound,13,Control the lowering phase.
+EX004,Dumbbell Flat Press,Chest,Beginner,Dumbbell,3,10-12,60,Compound,10,Keep wrists neutral and press upward.
+EX005,Incline Dumbbell Press,Chest,Intermediate,Dumbbell,4,10-12,60,Compound,11,Squeeze chest at the top.
+EX006,Decline Dumbbell Press,Chest,Intermediate,Dumbbell,3,10-12,60,Compound,11,Maintain full range of motion.
+EX007,Dumbbell Fly,Chest,Beginner,Dumbbell,3,12-15,45,Isolation,8,Keep elbows slightly bent.
+EX008,Incline Dumbbell Fly,Chest,Intermediate,Dumbbell,3,12-15,45,Isolation,8,Stretch chest without overextending shoulders.
+EX009,Cable Chest Fly,Chest,Beginner,Cable,3,12-15,45,Isolation,8,Bring handles together in front of chest.
+EX010,Low Cable Fly,Chest,Intermediate,Cable,3,12-15,45,Isolation,8,Lift from low to high for upper chest.
+EX011,Pec Deck Fly,Chest,Beginner,Machine,3,12-15,45,Isolation,8,Pause briefly at peak contraction.
+EX012,Machine Chest Press,Chest,Beginner,Machine,3,10-12,60,Compound,10,Press smoothly without locking elbows.
+EX013,Push Up,Chest,Beginner,Bodyweight,3,15-20,45,Compound,9,Maintain a straight body line.
+EX014,Wide Grip Push Up,Chest,Intermediate,Bodyweight,3,15-20,45,Compound,10,Place hands wider than shoulders.
+EX015,Diamond Push Up,Chest,Advanced,Bodyweight,3,12-15,45,Compound,11,Keep elbows close to body.
+EX016,Chest Dips,Chest,Advanced,Bodyweight,3,10-12,60,Compound,12,Lean slightly forward during movement.
+EX017,Smith Machine Bench Press,Chest,Intermediate,Smith Machine,4,8-10,90,Compound,11,Lower bar under control.
+EX018,Resistance Band Chest Press,Chest,Beginner,Resistance Band,3,15-20,45,Compound,8,Control both press and return.
+
+EX019,Deadlift,Back,Advanced,Barbell,4,5-8,120,Compound,18,Keep spine neutral throughout lift.
+EX020,Bent Over Barbell Row,Back,Intermediate,Barbell,4,8-10,90,Compound,13,Pull bar toward lower chest.
+EX021,T-Bar Row,Back,Intermediate,Machine,4,8-10,90,Compound,13,Squeeze shoulder blades together.
+EX022,Seated Cable Row,Back,Beginner,Cable,3,10-12,60,Compound,10,Pull handle toward waist.
+EX023,Lat Pulldown Wide Grip,Back,Beginner,Cable,3,10-12,60,Compound,10,Pull bar to upper chest.
+EX024,Lat Pulldown Close Grip,Back,Intermediate,Cable,3,10-12,60,Compound,10,Keep elbows close to body.
+EX025,Pull Up,Back,Advanced,Bodyweight,4,8-12,90,Compound,14,Use full range of motion.
+EX026,Chin Up,Back,Intermediate,Bodyweight,3,8-12,90,Compound,13,Pause at the top.
+EX027,Single Arm Dumbbell Row,Back,Beginner,Dumbbell,3,10-12,60,Compound,10,Keep back flat.
+EX028,Chest Supported Row,Back,Intermediate,Machine,3,10-12,60,Compound,10,Avoid using momentum.
+EX029,Straight Arm Pulldown,Back,Intermediate,Cable,3,12-15,45,Isolation,8,Keep arms nearly straight.
+EX030,Machine Row,Back,Beginner,Machine,3,10-12,60,Compound,10,Squeeze lats during pull.
+EX031,Reverse Grip Row,Back,Intermediate,Barbell,3,8-10,90,Compound,12,Keep elbows tucked.
+EX032,Meadows Row,Back,Advanced,Barbell,3,8-10,90,Compound,13,Stretch lats fully at bottom.
+EX033,Inverted Row,Back,Beginner,Bodyweight,3,12-15,60,Compound,9,Maintain straight body.
+EX034,Rack Pull,Back,Advanced,Barbell,4,5-8,120,Compound,17,Pull from knee height.
+EX035,Cable Pullover,Back,Intermediate,Cable,3,12-15,45,Isolation,8,Keep slight bend in elbows.
+EX036,Dumbbell Pullover,Back,Intermediate,Dumbbell,3,10-12,60,Compound,10,Lower dumbbell behind head carefully.
+
+EX037,Overhead Barbell Press,Shoulders,Intermediate,Barbell,4,8-10,90,Compound,12,Press directly overhead.
+EX038,Seated Dumbbell Shoulder Press,Shoulders,Beginner,Dumbbell,3,10-12,60,Compound,10,Keep elbows under wrists.
+EX039,Arnold Press,Shoulders,Intermediate,Dumbbell,3,10-12,60,Compound,10,Rotate palms during press.
+EX040,Dumbbell Lateral Raise,Shoulders,Beginner,Dumbbell,3,12-15,45,Isolation,7,Raise arms to shoulder height.
+EX041,Cable Lateral Raise,Shoulders,Intermediate,Cable,3,12-15,45,Isolation,7,Control both directions.
+EX042,Front Raise,Shoulders,Beginner,Dumbbell,3,12-15,45,Isolation,7,Do not swing the weight.
+EX043,Rear Delt Fly,Shoulders,Intermediate,Dumbbell,3,12-15,45,Isolation,7,Squeeze rear delts at top.
+EX044,Face Pull,Shoulders,Beginner,Cable,3,12-15,45,Isolation,7,Pull rope toward face.
+EX045,Upright Row,Shoulders,Intermediate,Barbell,3,10-12,60,Compound,9,Raise elbows higher than wrists.
+EX046,Machine Shoulder Press,Shoulders,Beginner,Machine,3,10-12,60,Compound,10,Press under control.
+EX047,Reverse Pec Deck,Shoulders,Intermediate,Machine,3,12-15,45,Isolation,7,Focus on rear delts.
+EX048,Landmine Press,Shoulders,Intermediate,Barbell,3,10-12,60,Compound,10,Press upward and slightly forward.
+EX049,Handstand Push Up,Shoulders,Advanced,Bodyweight,3,6-10,90,Compound,13,Maintain core stability.
+EX050,Pike Push Up,Shoulders,Intermediate,Bodyweight,3,10-15,60,Compound,10,Keep hips elevated.
+EX051,Resistance Band Lateral Raise,Shoulders,Beginner,Resistance Band,3,15-20,45,Isolation,6,Move slowly with control.
+
+exercise_id,exercise_name,muscle_group,difficulty,equipment,sets,reps,rest_seconds,exercise_type,calories_per_set,instructions
+EX052,Barbell Curl,Biceps,Beginner,Barbell,3,10-12,60,Isolation,8,Keep elbows fixed beside your body.
+EX053,EZ Bar Curl,Biceps,Beginner,EZ Bar,3,10-12,60,Isolation,8,Use full range of motion.
+EX054,Dumbbell Curl,Biceps,Beginner,Dumbbell,3,12-15,45,Isolation,7,Avoid swinging the dumbbells.
+EX055,Alternating Dumbbell Curl,Biceps,Intermediate,Dumbbell,3,10-12,45,Isolation,7,Curl one arm at a time.
+EX056,Hammer Curl,Biceps,Intermediate,Dumbbell,3,10-12,45,Isolation,8,Maintain neutral grip.
+EX057,Incline Dumbbell Curl,Biceps,Intermediate,Dumbbell,3,10-12,60,Isolation,8,Stretch biceps at bottom.
+EX058,Preacher Curl,Biceps,Intermediate,EZ Bar,3,10-12,60,Isolation,8,Do not lock elbows.
+EX059,Cable Curl,Biceps,Beginner,Cable,3,12-15,45,Isolation,7,Keep constant tension.
+EX060,Rope Hammer Curl,Biceps,Intermediate,Cable,3,12-15,45,Isolation,7,Separate rope at top.
+EX061,Concentration Curl,Biceps,Advanced,Dumbbell,3,10-12,45,Isolation,7,Squeeze hard at the top.
+EX062,Spider Curl,Biceps,Advanced,EZ Bar,3,10-12,45,Isolation,8,Control lowering phase.
+EX063,Resistance Band Curl,Biceps,Beginner,Resistance Band,3,15-20,30,Isolation,6,Move slowly.
+
+EX064,Close Grip Bench Press,Triceps,Intermediate,Barbell,4,8-10,90,Compound,11,Keep elbows tucked.
+EX065,Skull Crusher,Triceps,Intermediate,EZ Bar,3,10-12,60,Isolation,8,Lower bar behind forehead.
+EX066,Overhead Dumbbell Extension,Triceps,Beginner,Dumbbell,3,10-12,45,Isolation,7,Stretch triceps fully.
+EX067,Single Arm Overhead Extension,Triceps,Beginner,Dumbbell,3,12-15,45,Isolation,7,Keep upper arm stationary.
+EX068,Cable Pushdown,Triceps,Beginner,Cable,3,12-15,45,Isolation,7,Extend elbows completely.
+EX069,Rope Pushdown,Triceps,Intermediate,Cable,3,12-15,45,Isolation,7,Spread rope at bottom.
+EX070,Reverse Grip Pushdown,Triceps,Intermediate,Cable,3,12-15,45,Isolation,7,Keep wrists neutral.
+EX071,Bench Dips,Triceps,Beginner,Bodyweight,3,12-15,45,Compound,8,Lower body slowly.
+EX072,Parallel Bar Dips,Triceps,Advanced,Bodyweight,4,8-12,90,Compound,12,Keep torso upright.
+EX073,Kickback,Triceps,Beginner,Dumbbell,3,12-15,45,Isolation,6,Squeeze at full extension.
+EX074,Tate Press,Triceps,Advanced,Dumbbell,3,10-12,60,Isolation,8,Control every repetition.
+EX075,Resistance Band Pushdown,Triceps,Beginner,Resistance Band,3,15-20,30,Isolation,6,Maintain constant tension.
+
+EX076,Wrist Curl,Forearms,Beginner,Dumbbell,3,15-20,30,Isolation,5,Move wrists only.
+EX077,Reverse Wrist Curl,Forearms,Beginner,Dumbbell,3,15-20,30,Isolation,5,Control the movement.
+EX078,Farmer Walk,Forearms,Intermediate,Dumbbell,3,40 sec,60,Compound,10,Walk with heavy dumbbells.
+EX079,Plate Pinch Hold,Forearms,Intermediate,Weight Plate,3,30 sec,45,Isolation,6,Pinch plates together.
+EX080,Behind Back Wrist Curl,Forearms,Intermediate,Barbell,3,15-20,30,Isolation,6,Keep elbows fixed.
+EX081,Towel Pull Up,Forearms,Advanced,Bodyweight,3,8-10,90,Compound,11,Grip towels firmly.
+EX082,Dead Hang,Forearms,Beginner,Pull-up Bar,3,30 sec,45,Compound,6,Hang with full body weight.
+EX083,Reverse Curl,Forearms,Intermediate,EZ Bar,3,10-12,45,Isolation,7,Use overhand grip.
+
+EX084,Barbell Back Squat,Legs,Intermediate,Barbell,4,8-10,90,Compound,15,Keep chest up.
+EX085,Front Squat,Legs,Advanced,Barbell,4,6-8,120,Compound,16,Maintain upright torso.
+EX086,Goblet Squat,Legs,Beginner,Dumbbell,3,12-15,60,Compound,11,Keep dumbbell close to chest.
+EX087,Leg Press,Legs,Beginner,Machine,4,10-12,60,Compound,13,Push through heels.
+EX088,Hack Squat,Legs,Intermediate,Machine,4,10-12,90,Compound,14,Do not lock knees.
+EX089,Walking Lunges,Legs,Intermediate,Dumbbell,3,12 each leg,60,Compound,12,Take controlled steps.
+EX090,Bulgarian Split Squat,Legs,Advanced,Dumbbell,3,10 each leg,60,Compound,13,Keep balance throughout.
+EX091,Step Up,Legs,Beginner,Dumbbell,3,12 each leg,45,Compound,10,Drive through front heel.
+EX092,Leg Extension,Legs,Beginner,Machine,3,12-15,45,Isolation,8,Squeeze quadriceps.
+EX093,Romanian Deadlift,Legs,Intermediate,Barbell,4,8-10,90,Compound,14,Hinge at hips.
+EX094,Sumo Deadlift,Legs,Advanced,Barbell,4,6-8,120,Compound,17,Push knees outward.
+EX095,Glute Bridge,Legs,Beginner,Bodyweight,3,15-20,45,Compound,8,Squeeze glutes at top.
+EX096,Hip Thrust,Legs,Intermediate,Barbell,4,10-12,90,Compound,14,Pause at top.
+EX097,Standing Calf Raise,Legs,Beginner,Machine,4,15-20,30,Isolation,6,Stretch fully.
+EX098,Seated Calf Raise,Legs,Beginner,Machine,4,15-20,30,Isolation,6,Pause at contraction.
+EX099,Donkey Calf Raise,Legs,Intermediate,Machine,3,15-20,30,Isolation,6,Control movement.
+EX100,Sissy Squat,Legs,Advanced,Bodyweight,3,10-12,45,Isolation,8,Keep hips extended.
+EX101,Wall Sit,Legs,Beginner,Bodyweight,3,45 sec,45,Isometric,7,Maintain 90-degree knee angle.
+EX102,Jump Squat,Legs,Intermediate,Bodyweight,3,12-15,60,Plyometric,10,Land softly.
+EX103,Box Jump,Legs,Advanced,Bodyweight,3,10-12,90,Plyometric,12,Use explosive power.
+
+EX104,Barbell Hip Thrust,Glutes,Intermediate,Barbell,4,10-12,90,Compound,14,Drive hips upward and squeeze glutes.
+EX105,Single Leg Hip Thrust,Glutes,Advanced,Bodyweight,3,12 each leg,60,Compound,11,Keep hips level.
+EX106,Cable Kickback,Glutes,Beginner,Cable,3,15 each leg,45,Isolation,7,Squeeze glutes at top.
+EX107,Glute Kickback Machine,Glutes,Beginner,Machine,3,12-15,45,Isolation,8,Move slowly.
+EX108,Frog Pump,Glutes,Beginner,Bodyweight,3,20,30,Isolation,7,Pause at top.
+EX109,Banded Glute Bridge,Glutes,Beginner,Resistance Band,3,20,30,Isolation,6,Keep knees pushed outward.
+EX110,Curtsy Lunge,Glutes,Intermediate,Dumbbell,3,12 each leg,45,Compound,10,Cross one leg behind.
+EX111,Cable Pull Through,Glutes,Intermediate,Cable,3,12-15,60,Compound,11,Hinge at hips.
+EX112,Kettlebell Swing,Glutes,Intermediate,Kettlebell,3,20,60,Power,13,Explode through hips.
+EX113,Reverse Hyperextension,Glutes,Advanced,Machine,3,15,60,Isolation,9,Lift legs under control.
+
+EX114,Lying Leg Curl,Hamstrings,Beginner,Machine,3,12-15,45,Isolation,8,Squeeze hamstrings.
+EX115,Seated Leg Curl,Hamstrings,Beginner,Machine,3,12-15,45,Isolation,8,Control lowering.
+EX116,Nordic Curl,Hamstrings,Advanced,Bodyweight,3,8-10,90,Isolation,12,Lower slowly.
+EX117,Good Morning,Hamstrings,Intermediate,Barbell,3,10-12,90,Compound,13,Hinge from hips.
+EX118,Single Leg Romanian Deadlift,Hamstrings,Intermediate,Dumbbell,3,10 each leg,60,Compound,11,Maintain balance.
+EX119,Glute Ham Raise,Hamstrings,Advanced,Machine,3,10-12,90,Compound,13,Keep hips extended.
+EX120,Swiss Ball Leg Curl,Hamstrings,Beginner,Swiss Ball,3,15,45,Isolation,8,Pull ball smoothly.
+EX121,Stiff Leg Deadlift,Hamstrings,Intermediate,Barbell,4,8-10,90,Compound,14,Keep knees slightly bent.
+EX122,Kettlebell Romanian Deadlift,Hamstrings,Beginner,Kettlebell,3,12-15,60,Compound,11,Maintain neutral spine.
+EX123,Band Leg Curl,Hamstrings,Beginner,Resistance Band,3,20,30,Isolation,6,Move slowly.
+
+EX124,Standing Single Leg Calf Raise,Calves,Beginner,Bodyweight,4,15 each leg,30,Isolation,6,Pause at top.
+EX125,Smith Machine Calf Raise,Calves,Intermediate,Smith Machine,4,15-20,30,Isolation,7,Use full range.
+EX126,Leg Press Calf Raise,Calves,Intermediate,Machine,4,20,30,Isolation,7,Stretch at bottom.
+EX127,Jump Rope,Calves,Beginner,Jump Rope,5,60 sec,30,Cardio,12,Stay on toes.
+EX128,Box Calf Raise,Calves,Advanced,Bodyweight,4,20,30,Isolation,6,Drop heels below platform.
+EX129,Donkey Machine Calf Raise,Calves,Intermediate,Machine,4,15-20,30,Isolation,7,Pause at contraction.
+
+EX130,Crunch,Abs,Beginner,Bodyweight,3,20,30,Isolation,5,Keep neck relaxed.
+EX131,Reverse Crunch,Abs,Beginner,Bodyweight,3,20,30,Isolation,5,Lift hips upward.
+EX132,Bicycle Crunch,Abs,Beginner,Bodyweight,3,20 each side,30,Isolation,6,Touch elbow to knee.
+EX133,Hanging Leg Raise,Abs,Advanced,Pull-up Bar,3,15,60,Isolation,9,Avoid swinging.
+EX134,Cable Crunch,Abs,Intermediate,Cable,3,15,45,Isolation,7,Contract abs hard.
+EX135,Decline Sit Up,Abs,Intermediate,Bench,3,15,45,Isolation,8,Avoid momentum.
+EX136,Toe Touch Crunch,Abs,Beginner,Bodyweight,3,20,30,Isolation,5,Reach toward feet.
+EX137,V-Up,Abs,Advanced,Bodyweight,3,15,45,Isolation,8,Keep legs straight.
+EX138,Russian Twist,Abs,Intermediate,Medicine Ball,3,20 each side,30,Isolation,7,Rotate torso.
+EX139,Mountain Climber,Abs,Beginner,Bodyweight,3,40 sec,30,Cardio,10,Keep hips low.
+
+EX140,Front Plank,Core,Beginner,Bodyweight,3,45 sec,45,Isometric,5,Maintain straight body.
+EX141,Side Plank,Core,Beginner,Bodyweight,3,30 sec each side,30,Isometric,5,Keep hips elevated.
+EX142,Dead Bug,Core,Beginner,Bodyweight,3,15 each side,30,Stability,5,Move opposite arm and leg.
+EX143,Bird Dog,Core,Beginner,Bodyweight,3,15 each side,30,Stability,5,Avoid trunk rotation.
+EX144,Pallof Press,Core,Intermediate,Cable,3,15 each side,45,Anti-Rotation,6,Press straight ahead.
+EX145,Ab Wheel Rollout,Core,Advanced,Ab Wheel,3,12,60,Compound,9,Keep core tight.
+EX146,Farmer Carry,Core,Intermediate,Dumbbell,3,40 meters,60,Functional,12,Walk upright.
+EX147,Suitcase Carry,Core,Intermediate,Dumbbell,3,30 meters each side,60,Functional,11,Don't lean sideways.
+EX148,Turkish Get Up,Core,Advanced,Kettlebell,3,8 each side,90,Functional,15,Control every movement.
+EX149,Medicine Ball Slam,Core,Intermediate,Medicine Ball,3,15,60,Power,13,Use full body explosiveness.
+EX150,Bear Crawl,Core,Intermediate,Bodyweight,3,30 meters,45,Functional,10,Keep knees close to floor.
+
+EX151,Treadmill Walk,Cardio,Beginner,Treadmill,1,20 min,0,Cardio,180,Walk at a steady pace.
+EX152,Treadmill Jog,Cardio,Beginner,Treadmill,1,20 min,0,Cardio,220,Maintain light jogging speed.
+EX153,Treadmill Run,Cardio,Intermediate,Treadmill,1,20 min,0,Cardio,320,Keep controlled breathing.
+EX154,Outdoor Running,Cardio,Intermediate,None,1,30 min,0,Cardio,380,Maintain steady pace.
+EX155,Cycling,Cardio,Beginner,Stationary Bike,1,30 min,0,Cardio,300,Adjust seat height properly.
+EX156,Spin Bike Sprint,Cardio,Advanced,Spin Bike,8,30 sec,30,HIIT,240,Sprint with maximum effort.
+EX157,Rowing Machine,Cardio,Intermediate,Rowing Machine,1,20 min,0,Cardio,280,Drive with legs first.
+EX158,Elliptical Trainer,Cardio,Beginner,Elliptical,1,25 min,0,Cardio,240,Maintain upright posture.
+EX159,Stair Climber,Cardio,Intermediate,Machine,1,20 min,0,Cardio,290,Push through full foot.
+EX160,Jump Rope,Cardio,Beginner,Jump Rope,5,60 sec,30,Cardio,80,Land softly on toes.
+EX161,Burpees,HIIT,Advanced,Bodyweight,5,15,45,HIIT,90,Keep explosive movement.
+EX162,Mountain Climbers,HIIT,Beginner,Bodyweight,5,30 sec,30,HIIT,55,Keep core tight.
+EX163,High Knees,HIIT,Beginner,Bodyweight,5,30 sec,30,HIIT,50,Drive knees upward.
+EX164,Jump Squats,HIIT,Intermediate,Bodyweight,4,15,45,HIIT,60,Land softly.
+EX165,Skater Jumps,HIIT,Intermediate,Bodyweight,4,20,45,Plyometric,65,Jump side to side.
+EX166,Battle Rope Waves,HIIT,Advanced,Battle Rope,5,30 sec,45,HIIT,75,Move arms rapidly.
+EX167,Box Jumps,HIIT,Advanced,Box,4,12,60,Plyometric,70,Land with bent knees.
+EX168,Medicine Ball Slams,HIIT,Intermediate,Medicine Ball,4,15,45,Power,65,Use full body power.
+EX169,Jump Lunges,HIIT,Intermediate,Bodyweight,4,20,45,Plyometric,70,Alternate legs quickly.
+EX170,Bear Crawl Sprint,HIIT,Advanced,Bodyweight,4,20 meters,45,Functional,75,Move fast with control.
+
+EX171,Bodyweight Squat,Home Workout,Beginner,Bodyweight,3,20,30,Compound,30,Keep knees aligned.
+EX172,Push Up,Home Workout,Beginner,Bodyweight,3,15,45,Compound,35,Maintain straight body.
+EX173,Incline Push Up,Home Workout,Beginner,Bench,3,15,45,Compound,30,Use elevated surface.
+EX174,Chair Dip,Home Workout,Beginner,Chair,3,15,45,Compound,30,Lower slowly.
+EX175,Step Up,Home Workout,Beginner,Chair,3,15 each leg,45,Compound,30,Drive through heel.
+EX176,Wall Push Up,Home Workout,Beginner,Wall,3,20,30,Compound,20,Maintain body alignment.
+EX177,Bodyweight Lunge,Home Workout,Beginner,Bodyweight,3,15 each leg,30,Compound,28,Keep torso upright.
+EX178,Glute Bridge,Home Workout,Beginner,Bodyweight,3,20,30,Compound,25,Squeeze glutes.
+EX179,Plank,Home Workout,Beginner,Bodyweight,3,45 sec,30,Core,20,Keep body straight.
+EX180,Superman Hold,Home Workout,Beginner,Bodyweight,3,30 sec,30,Back,18,Squeeze lower back.
+
+EX181,Cat Cow Stretch,Mobility,Beginner,None,2,10 reps,15,Mobility,8,Move slowly with breathing.
+EX182,Hip Flexor Stretch,Mobility,Beginner,None,2,30 sec,15,Stretching,6,Stretch both sides.
+EX183,Hamstring Stretch,Mobility,Beginner,None,2,30 sec,15,Stretching,6,Keep knees straight.
+EX184,Quad Stretch,Mobility,Beginner,None,2,30 sec,15,Stretching,6,Hold ankle gently.
+EX185,Shoulder Mobility Drill,Mobility,Beginner,Band,2,15,15,Mobility,6,Move through full range.
+EX186,Thoracic Rotation,Mobility,Intermediate,None,2,15,15,Mobility,7,Rotate upper spine.
+EX187,World Greatest Stretch,Mobility,Intermediate,None,2,10 each side,20,Stretching,8,Open hips and chest.
+EX188,Ankle Mobility Drill,Mobility,Beginner,None,2,15,15,Mobility,5,Push knee over toes.
+EX189,Deep Squat Hold,Mobility,Intermediate,None,2,45 sec,20,Mobility,8,Keep heels down.
+EX190,Cobra Stretch,Mobility,Beginner,None,2,30 sec,15,Stretching,5,Relax lower back.
+
+EX191,Arm Circles,Warm Up,Beginner,None,2,20,15,Warm-up,4,Small then large circles.
+EX192,Leg Swings,Warm Up,Beginner,None,2,15 each leg,15,Warm-up,4,Swing forward and sideways.
+EX193,Jumping Jacks,Warm Up,Beginner,Bodyweight,2,30 sec,15,Warm-up,10,Stay light on feet.
+EX194,Bodyweight Good Morning,Warm Up,Beginner,None,2,15,15,Warm-up,5,Hinge at hips.
+EX195,Torso Twist,Warm Up,Beginner,None,2,20,15,Warm-up,4,Rotate gently.
+
+EX196,Walking,Cool Down,Beginner,None,1,5 min,0,Cool-down,20,Slowly reduce heart rate.
+EX197,Deep Breathing,Cool Down,Beginner,None,1,3 min,0,Recovery,2,Breathe deeply.
+EX198,Child Pose,Cool Down,Beginner,None,2,45 sec,15,Stretching,3,Relax entire body.
+EX199,Forward Fold,Cool Down,Beginner,None,2,30 sec,15,Stretching,3,Stretch hamstrings gently.
+EX200,Full Body Stretch,Cool Down,Beginner,None,1,5 min,0,Recovery,5,Stretch all major muscles.
